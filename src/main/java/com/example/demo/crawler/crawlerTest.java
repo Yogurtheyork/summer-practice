@@ -1,6 +1,6 @@
-package crawler;
+package com.example.demo.crawler;
 
-import model.Sight;
+import com.example.demo.model.Sight;
 import java.io.IOException;
 
 public class crawlerTest {
