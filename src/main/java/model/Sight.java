@@ -1,4 +1,4 @@
-package bean;
+package model;
 
 public class Sight implements java.io.Serializable{
 

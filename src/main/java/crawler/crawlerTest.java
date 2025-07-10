@@ -1,11 +1,8 @@
 package crawler;
 
-import bean.Sight;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+import model.Sight;
 import java.io.IOException;
 
-@SpringBootApplication
 public class crawlerTest {
 
 	public static void main(String[] args) throws IOException {

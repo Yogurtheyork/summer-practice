@@ -1,6 +1,6 @@
 package crawler;
 
-import bean.Sight;
+import model.Sight;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
